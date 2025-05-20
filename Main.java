@@ -4,5 +4,6 @@ public class Main {
         System.out.println("202314018 김예원");
         System.out.println(Hello.sum(10));
         System.out.println(Hello.sum(100));
+        System.out.println(Hello.sum(1000));
     }
 }
